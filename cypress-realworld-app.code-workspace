@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "cypress-realworld-app",
+			"path": "."
+		}
+	],
+	"settings": {
+		"typescript.tsdk": "node_modules/typescript/lib"
+	}
+}
